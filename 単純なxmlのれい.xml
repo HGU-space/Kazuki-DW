@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<top>
+  Text within the "top" element.
+  <sub1 attrib="anAttribute">
+    Text within the first "sub1" element.
+    </sub1>
+    <sub1 another_attrib="secondAttirbute">
+      Text within the second "sub1" element.
+      <subsub1>
+        Text in &lt; brackets &gt;
+      </subsub1>
+    </sub1>
+    <sub2/>
+</top>
